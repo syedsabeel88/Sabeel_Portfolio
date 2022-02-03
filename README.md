@@ -1,5 +1,5 @@
 # Sabeel_Portfolio
-Data Scientist
+Data Science|Machine Learning|Deep Learning| AI|
 
 # Project 1 : Customer Service Requests Analysis : Project Overview
 * Performed a service request data analysis of New York City 311 calls. 
