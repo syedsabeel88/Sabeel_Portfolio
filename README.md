@@ -14,3 +14,10 @@ Data Science|Machine Learning|Deep Learning| AI|
 * Exploratory Data Analysis(EDA)- finding outliers, Feature Analysis
 * Feature Engineering- Encoding, Feature importance,Factor Analysis, Scaling,
 * Model Selection & Evaluation - 3 ML models used Decision Tree Regressor, Random Forest Regressor & XGBoost.
+
+# [Project 3 : Lending Club Loan Data Analysis : Project Overview]
+* Create a model that predicts whether or not a loan will be default using the historical data.
+* Exploratory Data Analysis(EDA).
+* Feature Engineering- One Hot Encoding
+* Performed oversampling technique using SMOTE on imbalanced dataset.
+* Building & training Deep learning model. 
