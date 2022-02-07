@@ -9,7 +9,7 @@ Data Science|Machine Learning|Deep Learning| AI|
 * Ordered the complaint types based on the average ‘Request_Closing_Time’, grouping them for different locations.
 * Performed a statistical test to state Null and Alternate and provided a statistical test to accept or reject the Null hypothesis along with the corresponding ‘pvalue’
 
-# [Project 2 : Mercedes-Benz Greener Manufacturing : Project Overview](https://syedsabeel88.github.io/Sabeel_Portfolio/)
+# [Project 2 : Mercedes-Benz Greener Manufacturing : Project Overview](https://github.com/syedsabeel88/Mercedes-Benz-Greener-Manufacturing)
 * Reduce the time a Mercedes-Benz spends on the test bench.
 * Exploratory Data Analysis(EDA)- finding outliers, Feature Analysis
 * Feature Engineering- Encoding, Feature importance,Factor Analysis, Scaling,
