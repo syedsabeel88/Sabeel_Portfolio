@@ -22,7 +22,7 @@ Data Science|Machine Learning|Deep Learning| AI|
 * Performed oversampling technique using SMOTE on imbalanced dataset.
 * Building & training Deep learning model. 
 
-## [Project 4 : Comparative study of countries(Data Visualization)](hhttps://github.com/syedsabeel88/Comparative-study-of-countries-Tableau-)
+## [Project 4 : Comparative study of countries(Data Visualization)](hhttps://github.com/syedsabeel88/Comparative-study-of-countries-Tableau)
 * Created a dashboard to do a comparative study on various parameters of different countries using the sample insurance dataset and world development indicators dataset.
 * Colored the map based on Income column from the secondary dataset.
 * Included a filter of income group to the dashboard and a webpage to show data from world bank webpage driven by an URL action from geography graph.
