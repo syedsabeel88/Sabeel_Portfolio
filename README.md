@@ -32,3 +32,12 @@ Data Science|Machine Learning|Deep Learning| AI|
 * Title updation based on the category selection.
 * Displayed growth indicator to display Negative, No Change and Positive as values and corresponding shapes against it.
 * Dashboard filter for income group applied for all charts with the filter action enabled in the map as well.
+
+## [Project 5 : Healthcare Diabetes Prediction : Project Overview](https://github.com/syedsabeel88/HealthCare_Diabetes)
+* Build a model to accurately predict whether the patients in the dataset have diabetes or not. 
+* EDA
+* Classification model like Decision Tree Classifier, Random Forest Classifier, AdaBoost Classifier,
+Gradient Boosting Classifier, KNN Classifier are considered.
+* Model evaluation for classification type is done by using confusion matrix, accuracy score.
+* Modeling using Deep learning tensorflow using keras.
+
