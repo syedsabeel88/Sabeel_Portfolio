@@ -41,3 +41,12 @@ Gradient Boosting Classifier, KNN Classifier are considered.
 * Model evaluation for classification type is done by using confusion matrix, accuracy score.
 * Modeling using Deep learning tensorflow using keras.
 
+
+## [Project 6 : Taxi-Trajectory-Prediction : Project Overview](https://github.com/syedsabeel88/Taxi-Trajectory-Prediction)
+## Overview:
+* Built a predictive framework that is able to infer the final destination of taxi rides.
+* Exploratory Data Analysis(EDA)- finding outliers, Feature Analysis
+* Feature Engineering- Encoding, Feature importance
+* Model Selection & Evaluation
+* Prediction for provided test dataset.
+
