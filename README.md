@@ -2,11 +2,12 @@
 Data Science|Machine Learning|Deep Learning| AI|
 
 ## [Project 1 : End to End ML project of student performance : Project Overview](https://github.com/syedsabeel88/EndtoEndML)
-* Creating logging and exception handling
-* Problem statement, Exploratory Data Analysis(EDA) and Model training on jupyter notebook.
-* Data ingestion, Data transformation, model training, hypertuning parameters and model evaluation.
-* Creating prediction pipeline using flask on web app.
-* Deployment on AWS using CICD pipeline.
+* Implemented logging and exception handling
+* Conducted problem statement, Exploratory Data Analysis(EDA) and Model training on jupyter notebook.
+* Performed data ingestion, data transformation, model training, hyperparameter tuning and model evaluation.
+* Created prediction pipeline using flask on web app.
+* Deployed the project on AWS using CICD pipeline.
+* Deployed on Azure cloud using github actions.
 
 ## [Project 2 : Mercedes-Benz Greener Manufacturing : Project Overview](https://github.com/syedsabeel88/Mercedes-Benz-Greener-Manufacturing)
 * Reduce the time a Mercedes-Benz spends on the test bench.
