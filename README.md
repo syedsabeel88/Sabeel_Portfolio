@@ -1,13 +1,12 @@
 # Syed Sabeel_Portfolio
 Data Science|Machine Learning|Deep Learning| AI|
 
-## [Project 1 : Customer Service Requests Analysis : Project Overview](https://github.com/syedsabeel88/Customer-Service-Requests-Analysis)
-* Performed a service request data analysis of New York City 311 calls. 
-* Focused on the data wrangling techniques to understand the pattern in the data and also visualize the major complaint types.
-* Read or convert the columns ‘Created Date’ and Closed Date’ to datetime datatype and create a new column ‘Request_Closing_Time’ as the time elapsed between request creation and request closing.
-* Provided major insights/patterns in a visual format (graphs or tables) and 4 major conclusions that you can come up with after generic data mining.
-* Ordered the complaint types based on the average ‘Request_Closing_Time’, grouping them for different locations.
-* Performed a statistical test to state Null and Alternate and provided a statistical test to accept or reject the Null hypothesis along with the corresponding ‘pvalue’
+## [Project 1 : End to End ML project of student performance : Project Overview](https://github.com/syedsabeel88/EndtoEndML)
+* Creating logging and exception handling
+* Problem statement, Exploratory Data Analysis(EDA) and Model training on jupyter
+* Data ingestion, Data transformation, model training, hypertuning parameters and model evaluation.
+* Creating prediction pipeline using flask on web app.
+* Deployment on AWS using CICD pipeline.
 
 ## [Project 2 : Mercedes-Benz Greener Manufacturing : Project Overview](https://github.com/syedsabeel88/Mercedes-Benz-Greener-Manufacturing)
 * Reduce the time a Mercedes-Benz spends on the test bench.
@@ -41,8 +40,16 @@ Gradient Boosting Classifier, KNN Classifier are considered.
 * Model evaluation for classification type is done by using confusion matrix, accuracy score.
 * Modeling using Deep learning tensorflow using keras.
 
+## [Project 6 : Customer Service Requests Analysis : Project Overview](https://github.com/syedsabeel88/Customer-Service-Requests-Analysis)
+* Performed a service request data analysis of New York City 311 calls. 
+* Focused on the data wrangling techniques to understand the pattern in the data and also visualize the major complaint types.
+* Read or convert the columns ‘Created Date’ and Closed Date’ to datetime datatype and create a new column ‘Request_Closing_Time’ as the time elapsed between request creation and request closing.
+* Provided major insights/patterns in a visual format (graphs or tables) and 4 major conclusions that you can come up with after generic data mining.
+* Ordered the complaint types based on the average ‘Request_Closing_Time’, grouping them for different locations.
+* Performed a statistical test to state Null and Alternate and provided a statistical test to accept or reject the Null hypothesis along with the corresponding ‘pvalue’
 
-## [Project 6 : Taxi-Trajectory-Prediction : Project Overview](https://github.com/syedsabeel88/Taxi-Trajectory-Prediction)
+
+## [Project 7 : Taxi-Trajectory-Prediction : Project Overview](https://github.com/syedsabeel88/Taxi-Trajectory-Prediction)
 ## Overview:
 * Built a predictive framework that is able to infer the final destination of taxi rides.
 * Exploratory Data Analysis(EDA)- finding outliers, Feature Analysis
