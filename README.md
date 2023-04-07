@@ -3,7 +3,7 @@ Data Science|Machine Learning|Deep Learning| AI|
 
 ## [Project 1 : End to End ML project of student performance : Project Overview](https://github.com/syedsabeel88/EndtoEndML)
 * Creating logging and exception handling
-* Problem statement, Exploratory Data Analysis(EDA) and Model training on jupyter
+* Problem statement, Exploratory Data Analysis(EDA) and Model training on jupyter notebook.
 * Data ingestion, Data transformation, model training, hypertuning parameters and model evaluation.
 * Creating prediction pipeline using flask on web app.
 * Deployment on AWS using CICD pipeline.
